@@ -1,11 +1,17 @@
 <<<<<<< HEAD
-# Automatic uploading is disabled 
+# Automatic uploading is disabled
 =======
-This sort of humility suggests that he had read the book of Job really carefully, that he actually had appropriated the message, and gone on to apply 
-that message in his own life. There are so few intellectuals that do that. Hegel had several followers who themselves became well known. But far away the
-most famous is Karl Marx. Marx was born in Germany in 1818. And as a young student of Philosophy was very much a Hegelian. He didn't become a Socialist until 
-his mid 20's, when he began to develop that rich and highly original mixture of German Philosophy, French Politics and British Economics which is Marxism. 
-Together with a wealthy young industrialist, Friedrich Engels - he wrote the Communist Manifesto in 1848. The partnership between Marx and Engels must be 
-just about the most momentous collaboration in the history of ideas. Engels kept Marx for most of his life, so that he could produce his writings. And it was 
-a life spent largely in exile, because of Marx's political activities. 
+This sort of humility suggests that he had read the book of Job really carefully,
+that he actually had appropriated the message, and gone on to apply that message
+in his own life. There are so few intellectuals that do that. Hegel had several
+followers who themselves became well known. But far away the most famous is Karl
+Marx. Marx was born in Germany in 1818. And as a young student of Philosophy was
+very much a Hegelian. He didn't become a Socialist until his mid 20's, when he
+began to develop that rich and highly original mixture of German Philosophy,
+French Politics and British Economics which is Marxism. Together with a wealthy
+young industrialist, Friedrich Engels - he wrote the Communist Manifesto in 1848.
+The partnership between Marx and Engels must be just about the most momentous
+collaboration in the history of ideas. Engels kept Marx for most of his life,
+so that he could produce his writings. And it was a life spent largely in exile,
+because of Marx's political activities.
 >>>>>>> cb1b3d6990c7f5416f0c019c2e746890570a9155
